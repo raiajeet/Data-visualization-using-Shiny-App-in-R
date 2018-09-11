@@ -1,0 +1,13 @@
+name: newdata
+title: newdata
+username:
+account: ajeetrai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 407502
+bundleId: 1580029
+url: https://ajeetrai.shinyapps.io/newdata/
+when: 1536659422.08909
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: filename.csv|filename1.csv|filename2.csv|filename3.csv
