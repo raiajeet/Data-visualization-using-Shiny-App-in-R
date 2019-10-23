@@ -1,1 +1,2 @@
-# Data-visualization-using-Shiny-App-in-R
+# Visualizing data points of confidence interval using RShiny
+#### In this project, our objective was to visualize those data points that belongs to the confidence interval. To visualize those data points we used R shiny app. In-app there is the option to select a dataset and percent of confidence interval we want to show. After that, it shows data points of the confidence interval in red color. It also produces two tables one of which is the actual dataset and the other is data points of the confidence interval. 
